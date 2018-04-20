@@ -1,0 +1,5 @@
+This is just a simple program to add 3 numbers.
+
+If the commented function is used then it will display the square of the message variable.
+
+Draw is used to write or display the result on the LOVE2D engine .
